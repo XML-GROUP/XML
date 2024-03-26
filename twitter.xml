@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="transform.xsl" type="text/xsl"?>
+<twitter>
+	<tweet>
+		<author>EldadBoateng</author>
+		<content>My XML group just had a tough time trying to complete this project! #firsttweet</content>
+		<likes>20</likes>
+	</tweet>
+	<tweet>
+		<author>JosephYayra</author>
+		<content>Just had a great day at the beach! ☀️ #summer</content>
+		<likes>35</likes>
+	</tweet>
+	<tweet>
+		<author>MickyBenz</author>
+		<content>Excited for the weekend! #TGIF</content>
+		<likes>15</likes>
+	</tweet>
+	<tweet>
+		<author>AsamoahAgyei</author>
+		<content>My XML group just had a tough time trying to complete this project! #firsttweet</content>
+		<likes>20</likes>
+	</tweet>
+	<tweet>
+		<author>JosephYayra</author>
+		<content>Just had a great day at the beach! ☀️ #summer</content>
+		<likes>35</likes>
+	</tweet>
+	<tweet>
+		<author>MickyBenz</author>
+		<content>Excited for the weekend! #TGIF</content>
+		<likes>15</likes>
+	</tweet>
+
+</twitter>
